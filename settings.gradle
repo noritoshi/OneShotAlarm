@@ -1,0 +1,2 @@
+rootProject.name='OneShotAlarm'
+include ':app'
